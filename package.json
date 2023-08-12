@@ -1,0 +1,16 @@
+{
+  "name": "gdps.js",
+  "version": "0.1.0",
+  "description": "GDPS.js is essentially just a port of Cvolton's GMDPrivateServer to Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "km7dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
